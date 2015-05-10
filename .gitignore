@@ -1,4 +1,4 @@
-Project/Listing/*
-Project/Output/*
+Project/Output/*.*
+Project/Listing/*.*
 Project/Pro/*.bak
 Project/Pro/*.dep
